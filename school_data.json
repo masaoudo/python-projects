@@ -1,0 +1,29 @@
+{
+    "students": [
+        {
+            "name": "masoud",
+            "age": 22,
+            "email": "masoud@gmail.con",
+            "roll_no": 1,
+            "grades": {
+                "Maths": 90.0
+            }
+        },
+        {
+            "name": "muneeb",
+            "age": 24,
+            "email": "muneeb@gmail.com",
+            "roll_no": 18,
+            "grades": {}
+        }
+    ],
+    "teachers": [
+        {
+            "name": "akarsh",
+            "age": 24,
+            "email": "akarsh@gmail.com",
+            "emp_id": 1,
+            "subject": "python"
+        }
+    ]
+}
